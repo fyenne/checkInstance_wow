@@ -1,0 +1,11 @@
+## Interface: 110000
+## Version: 1.0.0
+## Title: checkinstance_samo
+## Notes: My first addon
+## Author: SimingYan
+## SavedVariables: MyInstanceTrackerDB
+
+--saver_global_res.lua
+samo_getinstances.lua
+--return_global_res.lua
+--eg.lua
